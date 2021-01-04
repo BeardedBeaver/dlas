@@ -1,0 +1,23 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "dub",
+			"test": true,
+			"compiler": "ldc2",
+			"archType": "x86_64",
+			"buildType": "unittest",
+			"configuration": "library",
+			"_generated": true,
+			"problemMatcher": [
+				"$dmd"
+			],
+			"group": {
+				"kind": "test",
+				"isDefault": true
+			},
+			"label": "dub-auto: Test dlas",
+			"detail": "dub test --compiler=ldc -a=x86_64 -b=debug -c=library"
+		}
+	]
+}

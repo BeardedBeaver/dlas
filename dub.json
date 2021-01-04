@@ -1,0 +1,10 @@
+{
+	"targetType": "library",
+	"authors": [
+		"Dmitriy Linev"
+	],
+	"copyright": "Copyright © 2020, Dmitriy Linev",
+	"description": "Library to load LAS (Log ASCII standart) files for D programming language",
+	"license": "MIT",
+	"name": "dlas"
+}

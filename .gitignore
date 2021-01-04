@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/dlas
+dlas.so
+dlas.dylib
+dlas.dll
+dlas.a
+dlas.lib
+dlas-test-*
+*.exe
+*.o
+*.obj
+*.lst
